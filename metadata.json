@@ -1,0 +1,6 @@
+{
+  "name": "AI Academy",
+  "description": "Sun'iy Intellekt va Prompt Engineering bo'yicha amaliy ta'lim platformasi va to'liq konspektlar to'plami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
